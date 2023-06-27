@@ -20,5 +20,6 @@ Mobile application part of the graduation project. This application works with t
 
 ## Authors ✍
 
-Şükrü Can Avcı<br/>
 Burak Andarman<br/>
+Şükrü Can Avcı<br/>
+
