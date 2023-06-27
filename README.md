@@ -12,7 +12,7 @@ Mobile application part of the graduation project. This application works with t
 
 | Taking Photo | Selecting Photo |
 | ------------- | ------------- |
-| <img src="https://github.com/BurakAndarman/monkeypox-mobile-app/assets/86152924/1558421c-ec0f-42b1-b3c3-ccf170b0f3cf" width="200px"> | <img src="https://github.com/BurakAndarman/monkeypox-mobile-app/assets/86152924/41f72fb8-4bf5-4e3b-b227-fd0c87509371" width="200px"> |
+| <img src="https://github.com/BurakAndarman/monkeypox-mobile-app/assets/86152924/1558421c-ec0f-42b1-b3c3-ccf170b0f3cf" width="200px"> | <img src="https://github.com/BurakAndarman/monkeypox-mobile-app/assets/86152924/ff5bd7ff-d2e5-4a1b-88e5-0eb5cca778a9" width="200px"> |
 
 | Data Analysis |
 | ------------- |
